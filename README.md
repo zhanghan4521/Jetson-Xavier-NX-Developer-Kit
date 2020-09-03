@@ -17,11 +17,11 @@
 
 *** `Need to set up a MicroSD card` (16G or larger UHS-1 minimum) : https://developer.nvidia.com/embedded/learn/get-started-jetson-xavier-nx-devkit
 
-<img src="https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-03T00_38_34.png" width="250">
+<img src="https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-03T00_38_34.png" width="350">
 
 Ports:
 
-<img src="https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-03T00_39_10.png" width="250">
+<img src="https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-03T00_39_10.png" width="600">
 
 For interface details or power guide, please see from the Jetson Xavier NX Developer Kit User Guide.
 
@@ -32,7 +32,7 @@ a.	Jetson family:
 
 NVIDIA Jetson is the world’s leading platform for AI at the edge. Its high-performance, low-power computing for deep learning and computer vision makes it the ideal platform for compute-intensive projects. The Jetson platform includes a variety of Jetson modules together with NVIDIA JetPack SDK. 
 
-<img src="https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-03T01_00_57.png" width="250">
+<img src="https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-03T01_00_57.png" width="600">
 
 The platform was focused on accelerating convolutional neural networks but Jetson’s GPU architecture has the flexibility to accelerate both today’s and tomorrow’s algorithms. Supports for the latest and greatest networks are added in the continuous introduced Jetson modules.
 
