@@ -18,7 +18,7 @@
 
 ![](https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-03T00_38_34.png)
 Ports:
-
+![](https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-03T00_39_10.png)
 
 
 
