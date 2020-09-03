@@ -5,7 +5,7 @@
 
 `NVIDIA Jetson Xavier NX Developer Kit` includes Jetson Xavier NX module, thus enables development of full-featured, multi-modal AI applications for product based on the Jetson Xavier NX module. 
 
-`Jetson Xavier NX module` is a compact power efficient computer for AI edge devices to run real-time AI applications. Benefiting from new could-native support, it has more than 10 times performance compared to its widely adopted predecessor Jetson TX2.
+`Jetson Xavier NX module` is a compact power efficient computer for AI edge devices to run real-time AI applications. Delivering up to 21 TOPS of compute in a compact form factor with under 15W of power, it brings server-level performance and could-native workflows to edge AI devices and autonomous machines.
 
 
 ### What’s included
@@ -40,12 +40,12 @@ The platform was focused on accelerating convolutional neural networks but Jetso
 
 <img src="https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-04T03_38_45.png" width="250">
 
-Jetson Xavier NX is the latest member of Jetson family, with more than 10 times the performance and a smaller form factor than its widely adopted predecessor Jetson TX2 at the same price. It was designed for accelerating machine learning applications and is useful for deploying computer vision and deep learning to the edge. 
+Jetson Xavier NX is the latest member of Jetson family, with more than 10 times the performance and a smaller form factor than its widely adopted predecessor Jetson TX2 at the same price. Based on NVIDIA's groundbreaking Xavier SoC, it can run multiple complex models and multiple high-definition sensor streams in parallel. Jetson Xavier NX module was designed for accelerating machine learning applications and is useful for deploying computer vision and deep learning to the edge. 
 
 
 ### JetPack SDK
 
-`NVIDIA JetPack SDK` is the most comprehensive solution for building AI applications. It includes the latest OS images for Jetson products, along with libraries and APIs, samples, developer tools, and documents.
+`NVIDIA JetPack SDK` is the most comprehensive solution for building AI applications. It includes the latest OS images for Jetson products, along with libraries and APIs, samples, developer tools, and documents. 
 
 `NVIDIA Jetson Linux Driver Package (L4T)` is the operating system component of JetPack, and provides the Linux kernel, Bootloader, Jetson Board Support Package (BSP), and sample filesystem for Jetson developer kits.
 
