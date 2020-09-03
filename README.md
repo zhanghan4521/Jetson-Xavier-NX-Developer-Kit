@@ -16,7 +16,7 @@
 *** `Need to set up a MicroSD card` (16G or larger UHS-1 minimum) : https://developer.nvidia.com/embedded/learn/get-started-jetson-xavier-nx-devkit
 
 
-(https: // github.com / zhanghan4521/ Jetson-Xavier-NX-Developer-Kit/ raw / master / 2020-09-03T00_38_34.png)
+https: // github.com / zhanghan4521/ Jetson-Xavier-NX-Developer-Kit/ raw / master / 2020-09-03T00_38_34.png
 Ports:
 
 
