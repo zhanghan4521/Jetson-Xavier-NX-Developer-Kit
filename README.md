@@ -54,4 +54,4 @@ https://developer.nvidia.com/embedded/downloads#?search=Jetson%20Xavier%20NX
 *	Jetson Linux Developer Guide: 
 https://docs.nvidia.com/jetson/l4t/index.html
 
-source: https://developer.nvidia.com/embedded/jetson-xavier-nx-devkit
+#### source: https://developer.nvidia.com/embedded/jetson-xavier-nx-devkit
