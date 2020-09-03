@@ -23,12 +23,12 @@ Ports:
 
 <img src="https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-03T00_39_10.png" width="600">
 
-For interface details or power guide, please see from the Jetson Xavier NX Developer Kit User Guide.
+For interface details or power guide, please see from the [Jetson Xavier NX Developer Kit User Guide](https://developer.nvidia.com/embedded/downloads#?search=Jetson%20Xavier%20NX%20Developer%20Kit%20User%20Guide).
 
 
 ### Evaluating Jetson Xavier NX module
 
-a.	Jetson family:
+#### Jetson family:
 
 NVIDIA Jetson is the world’s leading platform for AI at the edge. Its high-performance, low-power computing for deep learning and computer vision makes it the ideal platform for compute-intensive projects. The Jetson platform includes a variety of Jetson modules together with NVIDIA JetPack SDK. 
 
@@ -36,7 +36,7 @@ NVIDIA Jetson is the world’s leading platform for AI at the edge. Its high-per
 
 The platform was focused on accelerating convolutional neural networks but Jetson’s GPU architecture has the flexibility to accelerate both today’s and tomorrow’s algorithms. Supports for the latest and greatest networks are added in the continuous introduced Jetson modules.
 
-b.	Why Jetson Xavier NX module:
+#### Why Jetson Xavier NX module:
 
 <img src="https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-04T03_38_45.png" width="250">
 
