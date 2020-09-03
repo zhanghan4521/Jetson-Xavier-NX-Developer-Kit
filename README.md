@@ -29,10 +29,11 @@ For interface details or power guide, please see from the Jetson Xavier NX Devel
 a.	Jetson family:
 NVIDIA Jetson is the world’s leading platform for AI at the edge. Its high-performance, low-power computing for deep learning and computer vision makes it the ideal platform for compute-intensive projects. The Jetson platform includes a variety of Jetson modules together with NVIDIA JetPack SDK. 
 
-
+![](https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-03T01_00_57.png)
 The platform was focused on accelerating convolutional neural networks but Jetson’s GPU architecture has the flexibility to accelerate both today’s and tomorrow’s algorithms. Supports for the latest and greatest networks are added in the continuous introduced Jetson modules.
 
 b.	Why Jetson Xavier NX module:
+![](https://github.com/zhanghan4521/Jetson-Xavier-NX-Developer-Kit/raw/master/2020-09-04T03_38_45.png)
 Jetson Xavier NX is the latest member of Jetson family, with more than 10 times the performance and a smaller form factor than its widely adopted predecessor Jetson TX2 at the same price. It was designed for accelerating machine learning applications and is useful for deploying computer vision and deep learning to the edge. 
 
 
