@@ -45,7 +45,7 @@ Jetson Xavier NX is the latest member of Jetson family, with more than 10 times 
 
 ### JetPack SDK
 
-`NVIDIA JetPack SDK` is the most comprehensive solution for building AI applications. It includes the latest OS images for Jetson products, along with libraries and APIs, samples, developer tools, and documents. `JetPack 4.4` adds support for Jetson Xavier NX, which contains CUDA Toolkit 10.2 along with cuDNN 8.0, TensorRT 7.1, DeepStream 5.0, the NVIDIA Container Runtime for deploying cloud-native services, and other components.
+`NVIDIA JetPack SDK` is the most comprehensive solution for building AI applications. It includes the latest OS images for Jetson products, along with libraries and APIs, samples, developer tools, and documents. ``JetPack 4.4`` adds support for Jetson Xavier NX, which contains CUDA Toolkit 10.2 along with cuDNN 8.0, TensorRT 7.1, DeepStream 5.0, the NVIDIA Container Runtime for deploying cloud-native services, and other components.
 
 `NVIDIA Jetson Linux Driver Package (L4T)` is the operating system component of JetPack, and provides the Linux kernel, Bootloader, Jetson Board Support Package (BSP), and sample filesystem for Jetson developer kits.
 
