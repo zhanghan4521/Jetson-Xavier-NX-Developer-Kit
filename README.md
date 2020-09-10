@@ -1,6 +1,8 @@
 # Jetson-Xavier-NX-Developer-Kit
 ## Getting Started with Jetson Xavier NX Developer Kit
 
+There are already lots of resources on the official website, but some of the documents or information there are repetitive and are not so needed by a beginner. Therefore, I wrote this getting started guide, which is a compilation of the official resources, to provide those who are just getting started with a reference.
+
 ### Summary
 
 `NVIDIA Jetson Xavier NX Developer Kit` includes Jetson Xavier NX module, thus enables development of full-featured, multi-modal AI applications for product based on the Jetson Xavier NX module. 
